@@ -1,0 +1,5 @@
+{
+  "name": "IMB Address Architect",
+  "description": "An intelligent address verification and Intelligent Mail Barcode (IMB) generator using Gemini 2.5 Flash to standardize addresses and calculate ZIP+4.",
+  "requestFramePermissions": []
+}
